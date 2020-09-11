@@ -1,4 +1,3 @@
-
 #' Cola duas String
 #' @param x Uma String
 #' @export
